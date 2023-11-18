@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "PURI VINAYA D",
+            "2. Social Security Number": "775-78-5749",
+            "3. Date of Birth": "07/06/1964",
+            "4. Sex": "F",
+            "5. Married": "No",
+            "6. Home mailing Address": "401 E CHESTNUT ST, LOUSVILLE, AR, 40202",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "TRICARE",
+            "11. Email address": "vinaya64@unitedparcel.com",
+            "12. telephone number": "765-239-9490"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": " ",
+            "14. Social Security Number": " ",
+            "15. Date of Birth": " ",
+			"16. Sex": " ",
+            "17. Relationship code": " ",
+            "18. Address if different": " ",
+            "21. insurance other than Medicare": " ",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": " ",
+            "26. Social Security Number": " ",
+            "27. Date of Birth": " ",
+			"28. Sex": " ",
+            "29. Relationship code": " ",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": " ",
+            "34. Indicate the type": " "     
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "WATERS BARRY C",
+            "2. Social Security Number": "190-90-3464",
+            "3. Date of Birth": "03/01/1955",
+            "4. Sex": "M",
+            "5. Married": "No",
+            "6. Home mailing Address": "9750 NW 33RD ST, CORAL SPRINGS, AZ, 33065-1910",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "FEHB",
+            "11. Email address": "barry03@starbucks.com",
+            "12. telephone number": "765-239-9489"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": "WATERS PAOLA N",
+            "14. Social Security Number": "980-51-4189",
+            "15. Date of Birth": "04/27/1979",
+			"16. Sex": "F",
+            "17. Relationship code": "Dp",
+            "18. Address if different": "2115 DUNCAN REGIONAL LOOP, DUNCAN, AL, 73539",
+            "21. insurance other than Medicare": "No",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": "WATERS RICHARD S",
+            "26. Social Security Number": "757-78-5749",
+            "27. Date of Birth": "01/05/2000",
+			"28. Sex": "M",
+            "29. Relationship code": "SC",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": "No",
+            "34. Indicate the type": " "     
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "ROSE STEVE G",
+            "2. Social Security Number": "840-13-1844",
+            "3. Date of Birth": "03/28/1955",
+            "4. Sex": "M",
+            "5. Married": "No",
+            "6. Home mailing Address": "PO BOX 2209, TULSA, OK, 74101",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "FEHB",
+            "11. Email address": "steverose@fedex.com",
+            "12. telephone number": "765-239-9493"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": " ",
+            "14. Social Security Number": " ",
+            "15. Date of Birth": " ",
+			"16. Sex": " ",
+            "17. Relationship code": " ",
+            "18. Address if different": " ",
+            "21. insurance other than Medicare": " ",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": " ",
+            "26. Social Security Number": " ",
+            "27. Date of Birth": " ",
+			"28. Sex": " ",
+            "29. Relationship code": " ",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": " ",
+            "34. Indicate the type": " "     
+        }
+    ]
+}

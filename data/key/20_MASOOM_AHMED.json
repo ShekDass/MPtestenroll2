@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "AHMED MASOOM J",
+            "2. Social Security Number": "980-51-4189",
+            "3. Date of Birth": "01/06/1987",
+            "4. Sex": "F",
+            "5. Married": "No",
+            "6. Home mailing Address": "11700 MERCY BLVD SAVANNAH, GA, 31302-1928",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "TRICARE",
+            "11. Email address": "masoom@uknh.com",
+            "12. telephone number": "765-239-9496"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": " ",
+            "14. Social Security Number": " ",
+            "15. Date of Birth": " ",
+			"16. Sex": " ",
+            "17. Relationship code": " ",
+            "18. Address if different": " ",
+            "21. insurance other than Medicare": " ",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": " ",
+            "26. Social Security Number": " ",
+            "27. Date of Birth": " ",
+			"28. Sex": " ",
+            "29. Relationship code": " ",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": " ",
+            "34. Indicate the type": " "     
+        }
+    ]
+}

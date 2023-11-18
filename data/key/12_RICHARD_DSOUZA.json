@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "D'SOUZA RICHARD B",
+            "2. Social Security Number": "114-91-3737",
+            "3. Date of Birth": "12/28/1963",
+            "4. Sex": "M",
+            "5. Married": "Yes",
+            "6. Home mailing Address": "1 BLUE HILL PLZ,PEARL RIVER, AK - 10965",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "TRICARE",
+            "11. Email address": "richard12@berkshire.com",
+            "12. telephone number": "765-239-9488"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": "D'SOUZA BRENDA C",
+            "14. Social Security Number": "879-07-1461",
+            "15. Date of Birth": "03/27/1965",
+			"16. Sex": "F",
+            "17. Relationship code": "Sp",
+            "18. Address if different": " ",
+            "21. insurance other than Medicare": "No",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": "D'SOUZA JOY M",
+            "26. Social Security Number": "190-90-3464",
+            "27. Date of Birth": "01/01/1999",
+			"28. Sex": "F",
+            "29. Relationship code": "Ch",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": "No",
+            "34. Indicate the type": " "     
+        }
+    ]
+}

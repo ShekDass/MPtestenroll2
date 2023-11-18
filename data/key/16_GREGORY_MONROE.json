@@ -1,0 +1,42 @@
+{
+    "insurancecompany": "FEHB Federal Employees Health Benefits Program",
+	"formtype": "Health Benefits Election Form",
+    "PART A - Enrollee": [
+        {
+            "1. Enrollee Name": "MONROE GREGORY F",
+            "2. Social Security Number": "990-90-3464",
+            "3. Date of Birth": "04/25/1957",
+            "4. Sex": "M",
+            "5. Married": "No",
+            "6. Home mailing Address": "47051 ELMSMERE DR, NORTHVILLE, CO, 48167",
+            "9. insurance other than Medicare": "Yes",
+            "10. Indicate the type": "FEHB",
+            "11. Email address": " ",
+            "12. telephone number": "765-239-9492"
+		}
+    ],
+    "SPOUSE/DOMESTIC PARTNER": [
+        {
+            "13. Name of Family member": "MONROE JEANNE F",
+            "14. Social Security Number": "190-90-3464",
+            "15. Date of Birth": "06/11/1962",
+			"16. Sex": "F",
+            "17. Relationship code": "Sp",
+            "18. Address if different": "209 DUNCAN NATIONAL BLD, BEVERLY HILLS, CA, 73533",
+            "21. insurance other than Medicare": "No",
+            "22. Indicate the type": " "        
+        }
+    ],
+    "DEPENDENT CHILD": [
+        {
+            "25. Name of Family member": "MONROE BARRY G",
+            "26. Social Security Number": "775-78-5749",
+            "27. Date of Birth": "05/23/1998",
+			"28. Sex": "M",
+            "29. Relationship code": "Ch",
+            "30. Address if different": " ",
+            "33. insurance other than Medicare": "No",
+            "34. Indicate the type": " "     
+        }
+    ]
+}
